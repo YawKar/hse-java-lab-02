@@ -1,0 +1,3 @@
+Counting results:
+Lower-cased: 4
+Upper-cased: 1
