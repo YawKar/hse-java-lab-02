@@ -1,3 +1,15 @@
 Counting results:
-Lower-cased: 4
-Upper-cased: 1
+A: 2
+a: 2
+B: 2
+b: 2
+C: 2
+c: 2
+D: 2
+d: 2
+E: 2
+e: 2
+Total capital latin letters: 10
+Total lowercase latin letters: 10
+Total distinct capital latin letters: 5
+Total distinct lowercase latin letters: 5
